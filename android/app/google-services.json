@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784638470777",
+    "project_id": "pdp-bazar-home-899fc",
+    "storage_bucket": "pdp-bazar-home-899fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784638470777:android:5563155facfe780bb502a8",
+        "android_client_info": {
+          "package_name": "com.pdp.pdp_bazar_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784638470777-0jn005u076dr3n14pao0v352b7p9rn9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmP0V-uiKGo1Hfsn4quF-NzlNaMV2D-8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784638470777-0jn005u076dr3n14pao0v352b7p9rn9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
